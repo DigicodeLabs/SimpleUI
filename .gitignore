@@ -1,0 +1,4 @@
+*.app
+*.exe
+.DS_Store
+bytecode.byc
